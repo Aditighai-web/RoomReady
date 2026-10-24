@@ -1,0 +1,6 @@
+{
+  "name": "RoomReady",
+  "description": "IKEA-inspired AI interior design platform for room makeover analysis, styling, and furniture recommendations in INR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

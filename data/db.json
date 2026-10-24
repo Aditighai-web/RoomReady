@@ -1,0 +1,352 @@
+{
+  "products": [
+    {
+      "id": "poang-armchair",
+      "name": "POÄNG",
+      "swedishMeaning": "Point / Highlight",
+      "category": "Seating",
+      "desc": "Layer-glued bent birch frame with Hillared beige cushion. Legendary ergonomic comfort with subtle natural flex.",
+      "dimensions": "68 x 82 x 100 cm",
+      "materials": "Moulded birch veneer, 100% cotton removable cover",
+      "priceINR": 8990,
+      "styles": [
+        "Modern Scandinavian",
+        "Japandi",
+        "Nordic Hygge",
+        "Botanical Nordic"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?auto=format&fit=crop&w=800&q=80",
+      "query": "POANG+armchair",
+      "spatialBenefit": "Low visual weight with open cantilevered birch frame; keeps compact rooms looking spacious."
+    },
+    {
+      "id": "billy-bookcase",
+      "name": "BILLY",
+      "swedishMeaning": "Classic Library",
+      "category": "Storage",
+      "desc": "The iconic Swedish vertical storage system with adjustable shelves. Designed to hold books, ceramics, and daily essentials.",
+      "dimensions": "80 x 28 x 206 cm",
+      "materials": "Particleboard, Birch veneer, Clear lacquer",
+      "priceINR": 5990,
+      "styles": [
+        "Modern Scandinavian",
+        "Japandi",
+        "Stockholm Industrial",
+        "Nordic Hygge"
+      ],
+      "imageUrl": "/src/assets/images/ikea_billy_bookcase_1792681790119.jpg",
+      "query": "BILLY+bookcase",
+      "spatialBenefit": "Utilises vertical wall height up to 206 cm, liberating cluttered floor surfaces."
+    },
+    {
+      "id": "lisabo-table",
+      "name": "LISABO",
+      "swedishMeaning": "Smooth Haven",
+      "category": "Tables",
+      "desc": "Red Dot Design Award winner featuring clean tapered solid birch legs and matte ash veneer finish.",
+      "dimensions": "70 x 70 x 50 cm",
+      "materials": "Ash veneer, Solid birch legs",
+      "priceINR": 7490,
+      "styles": [
+        "Modern Scandinavian",
+        "Japandi",
+        "Botanical Nordic"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1533090161767-e6ffed986c88?auto=format&fit=crop&w=800&q=80",
+      "query": "LISABO+table",
+      "spatialBenefit": "Bevelled edge profile gives the illusion of a floating tabletop, reducing room bulkiness."
+    },
+    {
+      "id": "kallax-unit",
+      "name": "KALLAX",
+      "swedishMeaning": "Modular Cube",
+      "category": "Storage",
+      "desc": "Versatile 4x2 cube unit. Can be positioned upright against the wall or horizontally as an open room divider.",
+      "dimensions": "77 x 147 x 39 cm",
+      "materials": "Fibreboard, Paper foil, Particleboard",
+      "priceINR": 6490,
+      "styles": [
+        "Modern Scandinavian",
+        "Nordic Hygge",
+        "Stockholm Industrial"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1538688525198-9b88f6f53126?auto=format&fit=crop&w=800&q=80",
+      "query": "KALLAX+shelving+unit",
+      "spatialBenefit": "Dual-access open cubes maintain sightlines across studio spaces without creating dark corners."
+    },
+    {
+      "id": "hektar-lamp",
+      "name": "HEKTAR",
+      "swedishMeaning": "Acre / Foundry",
+      "category": "Lighting",
+      "desc": "Matte dark grey steel pendant or floor lamp with industrial brass lock fixtures and warm light dispersion.",
+      "dimensions": "Height: 181 cm, Shade: 31 cm",
+      "materials": "Powder-coated steel, Aluminium",
+      "priceINR": 4990,
+      "styles": [
+        "Stockholm Industrial",
+        "Modern Scandinavian",
+        "Nordic Hygge"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=800&q=80",
+      "query": "HEKTAR+lamp",
+      "spatialBenefit": "Focuses directed accent illumination downward, creating a dedicated evening reading sanctuary."
+    },
+    {
+      "id": "lohals-rug",
+      "name": "LOHALS",
+      "swedishMeaning": "Organic Earth",
+      "category": "Rugs & Textiles",
+      "desc": "Hand-crafted flatwoven rug made from 100% natural renewable jute. Provides earthy texture and durability.",
+      "dimensions": "160 x 230 cm",
+      "materials": "100% Natural Jute",
+      "priceINR": 6990,
+      "styles": [
+        "Japandi",
+        "Botanical Nordic",
+        "Nordic Hygge",
+        "Modern Scandinavian"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1600121848594-d8644e57abab?auto=format&fit=crop&w=800&q=80",
+      "query": "LOHALS+rug",
+      "spatialBenefit": "Anchors furniture grouping in open Indian apartments and reduces acoustic echo on tile floors."
+    },
+    {
+      "id": "nissafors-cart",
+      "name": "NISSAFORS",
+      "swedishMeaning": "Nimble Stream",
+      "category": "Storage",
+      "desc": "Multi-tiered mobile steel utility cart on smooth castors. Fits in the tightest kitchen, bathroom, or study nooks.",
+      "dimensions": "50.5 x 30 x 83 cm",
+      "materials": "Powder-coated steel",
+      "priceINR": 2490,
+      "styles": [
+        "Modern Scandinavian",
+        "Stockholm Industrial",
+        "Botanical Nordic"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?auto=format&fit=crop&w=800&q=80",
+      "query": "NISSAFORS+utility+cart",
+      "spatialBenefit": "Slides effortlessly into 32 cm gaps between desks and walls, transforming dead spaces into utility."
+    },
+    {
+      "id": "gladom-tray-table",
+      "name": "GLADOM",
+      "swedishMeaning": "Joyful Nest",
+      "category": "Tables",
+      "desc": "Removable tray top table with lightweight steel wire frame. Practical for serving tea or organizing nightstand essentials.",
+      "dimensions": "45 x 45 x 53 cm",
+      "materials": "Epoxy powder coated steel",
+      "priceINR": 1490,
+      "styles": [
+        "Modern Scandinavian",
+        "Stockholm Industrial",
+        "Botanical Nordic"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?auto=format&fit=crop&w=800&q=80",
+      "query": "GLADOM+tray+table",
+      "spatialBenefit": "The removable tray serves as a quick breakfast or beverage caddy without taking up floor space."
+    },
+    {
+      "id": "skadis-pegboard",
+      "name": "SKÅDIS",
+      "swedishMeaning": "Stage & Canvas",
+      "category": "Storage",
+      "desc": "Perforated wood-fibre pegboard with modular elastic cords, hooks, and mini containers. The ultimate Nordic desk organizer.",
+      "dimensions": "56 x 56 cm",
+      "materials": "Fibreboard, Acrylic paint",
+      "priceINR": 2290,
+      "styles": [
+        "Modern Scandinavian",
+        "Stockholm Industrial",
+        "Japandi"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80",
+      "query": "SKADIS+pegboard",
+      "spatialBenefit": "Lifts headphones, cables, and stationary directly onto the wall, leaving the desk entirely clean."
+    },
+    {
+      "id": "fejka-gradvis",
+      "name": "GRADVIS & FEJKA",
+      "swedishMeaning": "Gradual Calm",
+      "category": "Decor",
+      "desc": "Ribbed ceramic vase in muted Nordic sage paired with lifelike botanicals. Introduces serene biophilic balance.",
+      "dimensions": "21 cm height",
+      "materials": "Stoneware, Coloured glaze",
+      "priceINR": 1590,
+      "styles": [
+        "Botanical Nordic",
+        "Japandi",
+        "Nordic Hygge",
+        "Modern Scandinavian"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1485955900006-10f4d324d411?auto=format&fit=crop&w=800&q=80",
+      "query": "GRADVIS+vase",
+      "spatialBenefit": "Softens hard linear furniture edges and introduces living textures into minimalist settings."
+    },
+    {
+      "id": "strandmon-wing-chair",
+      "name": "STRANDMON",
+      "swedishMeaning": "Shoreline Solitude",
+      "category": "Seating",
+      "desc": "High back wing chair with high headrest and embracing armrests. IKEA founder Ingvar Kamprad’s personal favorite design.",
+      "dimensions": "82 x 96 x 101 cm",
+      "materials": "Nordvalla dark grey fabric, Solid beech legs",
+      "priceINR": 19990,
+      "styles": [
+        "Nordic Hygge",
+        "Modern Scandinavian"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1567538096630-e0c55bd6374c?auto=format&fit=crop&w=800&q=80",
+      "query": "STRANDMON+wing+chair",
+      "spatialBenefit": "Enclosing wings create an acoustic cocoon, softening noise in urban apartments."
+    },
+    {
+      "id": "besta-storage",
+      "name": "BESTÅ",
+      "swedishMeaning": "Lasting Endure",
+      "category": "Storage",
+      "desc": "Sleek low-line media console and sideboard with push-to-open flush doors and hidden cable routing channels.",
+      "dimensions": "120 x 40 x 64 cm",
+      "materials": "Fibreboard, Particleboard, White oak effect foil",
+      "priceINR": 14990,
+      "styles": [
+        "Modern Scandinavian",
+        "Japandi",
+        "Stockholm Industrial"
+      ],
+      "imageUrl": "https://images.unsplash.com/photo-1595428774223-ef52624120d2?auto=format&fit=crop&w=800&q=80",
+      "query": "BESTA+storage+system",
+      "spatialBenefit": "Conceals router boxes, power strips, and consoles behind clean Scandinavian front panels."
+    }
+  ],
+  "categories": [
+    "Seating",
+    "Storage",
+    "Tables",
+    "Lighting",
+    "Rugs & Textiles",
+    "Decor"
+  ],
+  "budgetOptions": {
+    "min": 15000,
+    "max": 250000,
+    "default": 45000,
+    "presets": [
+      35000,
+      65000,
+      110000,
+      180000
+    ]
+  },
+  "roomPresets": [
+    {
+      "id": "indian-studio",
+      "title": "Indian 1-BHK Studio",
+      "subtitle": "Compact 140 sq.ft bedroom requiring storage and light",
+      "roomType": "Studio Apartment",
+      "style": "Modern Scandinavian",
+      "palette": "Birch & Sage",
+      "budget": 45000,
+      "dimensions": {
+        "length": 3.8,
+        "width": 3.4,
+        "height": 2.7,
+        "unit": "m"
+      },
+      "beforeImage": "/src/assets/images/sample_room_indian_studio_1792679068006.jpg",
+      "afterImage": "/src/assets/images/sample_makeover_studio_1792679069093.jpg",
+      "analysis": {
+        "spatialLayout": "Narrow floor circulation pinched between wardrobe and bed. Shifting clothes storage into high-level vertical cabinets opens up a 90 cm perimeter walkway.",
+        "naturalLight": "Strong direct sunlight from north-facing balcony window. Layer translucent white linen shears to diffuse heat while keeping the study desk luminous.",
+        "storageDeclutter": "Clear loose books and chargers using the IKEA SKÅDIS wall pegboard and under-bed rolling drawers, freeing 35% more usable floor area.",
+        "paletteMaterials": "Blonde birch veneer and pale ash pair harmoniously with sage green linen accents, creating a calm visual sanctuary in a bustling urban context.",
+        "budgetStrategy": "Allocate ₹20,000 to multifunctional birch storage, ₹15,000 to ergonomic seating and desk, and ₹10,000 to soft textiles and layered lighting.",
+        "recommendedProductIds": [
+          "poang-armchair",
+          "billy-bookcase",
+          "lisabo-table",
+          "skadis-pegboard",
+          "nissafors-cart"
+        ],
+        "designSummary": "A light-filled Scandinavian sanctuary transforming a compact Mumbai/Bengaluru studio into an uncluttered haven of peace and productivity.",
+        "source": "demo",
+        "notice": "Verified architectural case study for compact urban apartments."
+      }
+    },
+    {
+      "id": "cluttered-living",
+      "title": "Urban Family Living",
+      "subtitle": "190 sq.ft lounge with dispersed furniture and cord tangle",
+      "roomType": "Living Room",
+      "style": "Japandi",
+      "palette": "Stockholm Monochrome",
+      "budget": 65000,
+      "dimensions": {
+        "length": 4.6,
+        "width": 3.8,
+        "height": 2.8,
+        "unit": "m"
+      },
+      "beforeImage": "/src/assets/images/sample_room_cluttered_living_1792679069559.jpg",
+      "afterImage": "/src/assets/images/demo_scandinavian_makeover_1792682337681.jpg",
+      "analysis": {
+        "spatialLayout": "Centrally crowded arrangement causes visual fatigue. Aligning seating along a single clean sightline toward the balcony enhances perceived depth by 40%.",
+        "naturalLight": "Ceiling lighting is too harsh and directional. Replace with a 3-layer Nordic ambient plan: 1 soft floor uplight, 1 low reading task lamp, and warm sconces.",
+        "storageDeclutter": "Open TV console gathers clutter. Transition to flush BESTÅ cabinets with discreet cable grommets to cleanly mask multimedia boxes.",
+        "paletteMaterials": "Warm chalk walls, solid ash accents, and tactile flatwoven jute rugs ground the space with organic wabi-sabi composure.",
+        "budgetStrategy": "Direct ₹28,000 toward closed low-line media storage, ₹22,000 toward focal lounge seating, and ₹15,000 toward natural jute rug and warm lighting.",
+        "recommendedProductIds": [
+          "lisabo-table",
+          "besta-storage",
+          "lohals-rug",
+          "hektar-lamp",
+          "fejka-gradvis"
+        ],
+        "designSummary": "An airy Japandi living room that eliminates visual noise while maintaining warm hospitality for family gatherings.",
+        "source": "demo",
+        "notice": "Verified architectural case study for residential living rooms."
+      }
+    },
+    {
+      "id": "work-nook",
+      "title": "Balcony / Study Nook",
+      "subtitle": "75 sq.ft study corner with screen glare and loose paperwork",
+      "roomType": "Home Office",
+      "style": "Stockholm Industrial",
+      "palette": "Coastal Fjord Blue",
+      "budget": 35000,
+      "dimensions": {
+        "length": 2.8,
+        "width": 2.5,
+        "height": 2.6,
+        "unit": "m"
+      },
+      "beforeImage": "/src/assets/images/sample_room_indian_studio_1792679068006.jpg",
+      "afterImage": "/src/assets/images/hero_scandinavian_room_1792679067859.jpg",
+      "analysis": {
+        "spatialLayout": "Desk directly opposes window causing eye fatigue. Angle work surface 90 degrees perpendicular to window wall to invite side illumination.",
+        "naturalLight": "Strong ambient contrast between computer display and dark corners. Add a dimmable HEKTAR task lamp positioned above eye level.",
+        "storageDeclutter": "Introduce vertical modular KALLAX cubes to keep binders and electronics off desk surface, leaving workspace pristine.",
+        "paletteMaterials": "Matte powder-coated charcoal steel, exposed grain pine, and deep fjord blue linen harmonize for deep focus.",
+        "budgetStrategy": "Allocate ₹14,000 to ergonomic desk & task chair, ₹12,000 to vertical wall storage, and ₹9,000 to glare-free lighting.",
+        "recommendedProductIds": [
+          "kallax-unit",
+          "hektar-lamp",
+          "gladom-tray-table",
+          "skadis-pegboard"
+        ],
+        "designSummary": "A distraction-free Nordic work alcove maximizing small spaces with industrial Scandinavian precision.",
+        "source": "demo",
+        "notice": "Verified architectural case study for residential work nooks."
+      }
+    }
+  ],
+  "siteContent": {
+    "heroHeadline": "Transform your room into a Nordic sanctuary.",
+    "heroSubtitle": "Upload any room photo to receive multimodal architectural critique, generative Scandinavian makeover concepts, and curated IKEA India furniture kits precisely tailored to your Indian Rupee budget.",
+    "ga4MeasurementId": "G-PSJZMCEZY1",
+    "announcement": "Authentic IKEA India INR catalog · Gemini 3.8 Flash Spatial Vision"
+  },
+  "savedMakeovers": []
+}
